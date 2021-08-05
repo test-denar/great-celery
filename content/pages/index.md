@@ -5,17 +5,10 @@ sections:
     type: section_hero
     title: Hero Section
     image: images/5.jpg
-    content: >
-      ![](<stackbit_asset_id:static:public/images/iconfinder-icon (2).svg>)
-
-
+    content: >+
       This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      one to three sentences, but can be changed as you prefer![](/images/3.jpg)
 
-
-
-
-      ![](/images/4.jpg)
     actions:
       - label: Get Started
         url: /docs
