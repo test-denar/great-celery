@@ -10,8 +10,6 @@ sections:
       one to three sentences, but can be changed as you prefer
 
 
-
-
       Test test test
     actions:
       - label: Get Started
