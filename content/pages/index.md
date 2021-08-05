@@ -6,7 +6,7 @@ sections:
     title: Hero Section
     image: images/5.jpg
     content: >
-      ![](/images/interesting-chili.jpg)This section can contain a subtitle or
+      ![](/images/LARGE_elevation.jpeg)This section can contain a subtitle or
       tagline. The recommended length is one to three sentences, but can be
       changed as you prefer
     actions:
