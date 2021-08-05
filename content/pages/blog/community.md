@@ -36,8 +36,6 @@ layout: post
 ---
 **Donec neque lorem**, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat.
 
-
-
 > The beauty of type lies in its utility, prettiness without readability serves neither author nor reader. - James Felici
 
 Sed augue lorem, porta nec lorem et, luctus egestas nunc. Sed in tellus at enim commodo pharetra. Mauris nisi ipsum, auctor nec justo non, lobortis ullamcorper magna. Pellentesque posuere posuere dolor, quis egestas est ultrices id. Cras at urna lectus. Curabitur in placerat ligula. Phasellus pharetra scelerisque lectus, id sagittis lorem pretium eget. Phasellus commodo nunc ante, nec commodo urna iaculis eu. Pellentesque euismod et ante quis vestibulum. Ut quis sapien nisi. Sed interdum sit amet sem et vestibulum. Maecenas tempor dictum leo, quis rutrum purus tincidunt vitae. Fusce vel turpis risus. Donec congue accumsan tempus. Nunc nec elit magna. Aenean luctus auctor ligula at lacinia.
