@@ -6,9 +6,8 @@ sections:
     title: Hero Section
     image: images/5.jpg
     content: >
-      ![](/images/parallel-turtle.jpeg)This section can contain a subtitle or
-      tagline. The recommended length is one to three sentences, but can be
-      changed as you prefer![](/images/5.jpg)
+      This section can contain a subtitle or tagline. The recommended length is
+      one to three sentences, but can be changed as you prefer
     actions:
       - label: Get Started
         url: /docs
